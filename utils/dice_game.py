@@ -1,4 +1,4 @@
-
+from user_manager import UserManager
 import os
 import random
 import datetime
@@ -14,7 +14,11 @@ class DiceGame:
     pass
 
   def play_game():
-    pass
+    while True:
+      try:
+        pass
+      except ValueError as e:
+        print(e)
 
   def show_top_scores():
     pass
