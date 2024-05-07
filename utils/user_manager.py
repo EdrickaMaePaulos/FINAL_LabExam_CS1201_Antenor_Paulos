@@ -1,4 +1,4 @@
-from dice_game import DiceGame
+from utils.dice_game import DiceGame
 
 class UserManager:
   def __init__(self, username, password):

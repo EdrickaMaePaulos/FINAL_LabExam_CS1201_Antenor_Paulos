@@ -1,6 +1,6 @@
 from datetime import datetime
-from user_manager import UserManager
-from dice_game import DiceGame
+from utils.user_manager import UserManager
+from utils.dice_game import DiceGame
 import os
 
 class Menu(UserManager):
