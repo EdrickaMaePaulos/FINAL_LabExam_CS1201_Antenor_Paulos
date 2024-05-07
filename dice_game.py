@@ -1,0 +1,26 @@
+
+import os
+import random
+import datetime
+
+class DiceGame:
+  def __init__(self):
+    pass
+
+  def load_scores():
+    pass
+
+  def save_scores():
+    pass
+
+  def play_game():
+    pass
+
+  def show_top_scores():
+    pass
+
+  def logout():
+    pass
+
+  def menu():
+    pass
